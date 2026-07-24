@@ -41,28 +41,28 @@ hours = st.number_input(
     "Hours Studied",
     min_value=0.0,
     max_value=24.0,
-    value=6.0
+    value=0.0
 )
 
 sleep = st.number_input(
     "Sleep Hours",
     min_value=0.0,
     max_value=24.0,
-    value=8.0
+    value=0.0
 )
 
 attendance = st.number_input(
     "Attendance Percentage",
     min_value=0.0,
     max_value=100.0,
-    value=75.0
+    value=0.0
 )
 
 previous = st.number_input(
     "Previous Score",
     min_value=0.0,
     max_value=100.0,
-    value=70.0
+    value=0.0
 )
 
 if st.button("Predict Score"):
