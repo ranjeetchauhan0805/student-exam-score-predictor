@@ -89,7 +89,7 @@ streamlit run app.py
 
 ## Author
 
-**Ranjeet Chauhan**
+**Ranjeet Singh Chauhan**
 
 Third-Year Engineering Student
 
