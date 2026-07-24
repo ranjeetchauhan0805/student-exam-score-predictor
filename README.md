@@ -45,9 +45,9 @@ student-exam-score-predictor/
 ## Model Performance
 Metric Value:
 
-MAE = 2.31,  
-MSE = 7.76,  
-RMSE = 2.79,  
+MAE = 2.31   
+MSE = 7.76   
+RMSE = 2.79   
 R² Score = 0.85  
 ---
 
