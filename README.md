@@ -33,6 +33,10 @@ student-exam-score-predictor/
 ├── data/
 ├── models/
 ├── notebooks/
+├── images/
+|   ├── app.png
+|   |── prediction.png
+│   └── scatter.png
 ├── src/
 │   ├── train.py
 │   └── predict.py
