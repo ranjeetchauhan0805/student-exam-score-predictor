@@ -46,9 +46,9 @@ student-exam-score-predictor/
 Metric Value:
 
 MAE = 2.31,  
-MSE = 7.76, 
+MSE = 7.76,  
 RMSE = 2.79,  
-R² Score = 0.85 
+R² Score = 0.85  
 ---
 
 ## Installation
