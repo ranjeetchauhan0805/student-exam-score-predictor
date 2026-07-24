@@ -38,4 +38,4 @@ streamlit run app.py
 
 - MAE: 2.31
 - RMSE: 2.79
-- R² Score: 0.85
+- R² Score: 0.85"# student-exam-score-predictor" 
